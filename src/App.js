@@ -1,7 +1,5 @@
 import { useState } from "react";
 import { RiArrowDropDownLine } from "react-icons/ri";
-
-
 import { FaBars } from "react-icons/fa6";
 import { RxCross1 } from "react-icons/rx";
 import Searchcontainer from "./components/Searchcontainer"
