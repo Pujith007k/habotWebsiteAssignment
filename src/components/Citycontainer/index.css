@@ -1,0 +1,216 @@
+.habotWebsiteDescription{
+  height:530px;
+  width:100vw;
+  background-color: #FFFFFF;
+  display:flex;
+}
+.habotsideHeading{
+  display:flex;
+  flex-direction:column;
+  height:300px;
+  width:500px;
+  margin:100px;
+}
+.habotCites{
+  display:flex;
+  flex-wrap: wrap;
+  width:500px;
+  margin:100px;
+  width: 541px;
+  height: 244px;
+  top: 723px;
+  left: 872px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+
+}
+.cityName{
+  width: 240px;
+height: 45px;
+top: 723px;
+left: 872px;
+padding: 17px 0px 16px 0px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color:#000000;
+border: 1px solid #E7760D;
+display:flex;
+justify-content: center;
+align-items: center;
+margin:5px;
+}
+.cityName:hover{
+ color:#ffffff;
+ background-color:#E7760D ;
+}
+
+.habotsideHeadingButton{
+  width: 317px;
+height: 54px;
+top: 940px;
+left: 102px;
+padding: 0px 70.44px 0px 43px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color:#FFFFFF;
+background-color: #00732F;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+.habotsideHeadingButton:hover{
+  background-color: #ffffff;
+color:#00732F;
+}
+.sideheadingarrowIcon{
+  height:25px;
+  width:60px;
+}
+.habotSideHeadingTitle{
+  width: 500px;
+height: 40px;
+top: 708px;
+left: 102px;
+gap: 0px;
+opacity: 0px;
+
+}
+.habotsideHeadingParagraph{
+  width: 620px;
+height: 120px;
+top: 783px;
+left: 106px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 17.16px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+
+}
+.breakSearch{
+  display:none;
+
+}
+
+@media only screen and (max-width: 768px) {
+    .habotWebsiteDescription{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  height:1200px;
+  width:100vw;
+  background-color: #FFFFFF;
+
+}
+.habotsideHeading{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  text-align: center;
+  height:600px;
+  width:500px;
+
+ 
+}
+.breakSearch{
+  display:flex;
+}
+.habotCites{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  width: 500px;
+  height: 600px;
+  top: 723px;
+  left: 872px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+
+}
+.cityName{
+  width: 240px;
+height: 45px;
+top: 723px;
+left: 872px;
+padding: 17px 0px 16px 0px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color:#000000;
+border: 1px solid #E7760D;
+display:flex;
+justify-content: center;
+align-items: center;
+margin:5px;
+}
+.cityName:hover{
+ color:#ffffff;
+ background-color:#E7760D ;
+}
+
+.habotsideHeadingButton{
+  width: 317px;
+height: 54px;
+top: 940px;
+left: 102px;
+padding: 0px 70.44px 0px 43px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color:#FFFFFF;
+background-color: #00732F;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+.habotsideHeadingButton:hover{
+  background-color: #ffffff;
+color:#00732F;
+}
+.sideheadingarrowIcon{
+  height:25px;
+  width:60px;
+}
+.habotSideHeadingTitle{
+  width: 500px;
+height: 50px;
+top: 708px;
+left: 102px;
+gap: 0px;
+opacity: 0px;
+
+}
+.habotsideHeadingParagraph{
+  width: 500px;
+height: 120px;
+top: 783px;
+left: 106px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 17.16px;
+font-weight: 300;
+line-height: 25px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+
+}
+}

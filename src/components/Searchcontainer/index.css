@@ -1,0 +1,282 @@
+.searchContainer{
+  background-image: url("https://res.cloudinary.com/dbvonytlq/image/upload/v1733203329/Rectangle_1_asgky2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 610px;
+  gap: 0px;
+  opacity: 0px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.searchDescription{
+ 
+  top: 210px;
+  left: 298px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 66px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+
+
+}
+.searchSecondHeading{
+  font-family: Poppins;
+  font-size: 55px;
+  font-weight: 400;
+  line-height: 66px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+
+}
+.searchBar{
+  display:flex;
+  align-items: center;
+  width: 937.94px;
+height: 56px;
+top: 379px;
+left: 296px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+
+}
+.serviceContainer{
+  width: 400px;
+  height: 56px;
+  opacity: 0px;
+  background: #FFFFFF;
+  border: 0px solid #D1D5DB;
+  color:#D1D5DB;
+  display:flex;
+  align-items: center;
+  margin:5px;
+
+}
+.input{
+  width: 370px;
+  height: 54px;
+  border-width:0px;
+  border-style: none;
+  border-color: #FFFFFF;
+  border-radius:0px;
+  border: none;
+  background: transparent;
+  border-style:none;
+
+}
+.serviceIcon{
+  height:30px;
+  width:30px;
+  color:orange;
+  margin-right: 10px;
+}
+.searchButton{
+  width: 125px;
+height: 60px;
+top: 380px;
+left: 1116px;
+padding: 0px 32.8px 0px 33px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #00732F;
+background-color: #00732F;
+color:#ffffff;
+display:flex;
+justify-content: center;
+align-items: center;
+margin:5px;
+}
+.searchButton:hover{
+  background-color: #ffffff;
+color:#00732F;
+}
+.searchParagraph{
+  width: 642px;
+height: 36px;
+top: 469px;
+left: 435px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:#FFFFFF;
+font-size: 25px;
+
+}
+.searchSpan{
+  font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.breakSearch{
+    display:none;
+}
+@media only screen and (max-width: 768px) {
+    .searchContainer{
+  background-image: url("https://res.cloudinary.com/dbvonytlq/image/upload/v1733203329/Rectangle_1_asgky2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 800px;
+  gap: 0px;
+  opacity: 0px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.searchDescription{
+ 
+  top: 210px;
+  left: 298px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 66px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+
+
+}
+.searchSecondHeading{
+  font-family: Poppins;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 66px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+
+}
+.searchBar{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  width: 937.94px;
+  height: 56px;
+  top: 379px;
+  left: 296px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+
+}
+.serviceContainer{
+  width: 350px;
+  height: 56px;
+  opacity: 0px;
+  background: #FFFFFF;
+  border: 0px solid #D1D5DB;
+  color:#D1D5DB;
+  display:flex;
+  align-items: center;
+  margin:5px;
+
+}
+.input{
+  width: 320px;
+  height: 54px;
+  border-width:0px;
+  border-style: none;
+  border-color: #FFFFFF;
+  border-radius:0px;
+  border: none;
+  background: transparent;
+  border-style:none;
+
+}
+.serviceIcon{
+  height:30px;
+  width:30px;
+  color:orange;
+  margin-right: 10px;
+}
+.searchButton{
+  width: 125px;
+height: 60px;
+top: 380px;
+left: 1116px;
+padding: 0px 32.8px 0px 33px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #00732F;
+background-color: #00732F;
+color:#ffffff;
+display:flex;
+justify-content: center;
+align-items: center;
+margin:5px;
+}
+.searchButton:hover{
+  background-color: #ffffff;
+color:#00732F;
+}
+.searchParagraph{
+  width: 642px;
+height: 56px;
+top: 469px;
+left: 435px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:#FFFFFF;
+font-size: 25px;
+
+}
+.breakSearch{
+  display:flex;
+}
+.searchSpan{
+  font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+}

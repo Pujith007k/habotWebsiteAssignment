@@ -1,0 +1,198 @@
+.youTubeContainer{
+  margin:100px;
+  margin-top:0px;
+  width: 1316px;
+  height: 623px;
+  top: 1113px;
+  left: 98px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  background: #072F57;
+  display:flex;
+  align-items: center;
+
+}
+.youtubeAnimatedImage{
+  background-image: url("https://res.cloudinary.com/dbvonytlq/image/upload/v1732978165/i8tgRHXx4oQ-SD_1_m15qsu.png");
+  width: 640px;
+  height: 350px;
+  top: 137px;
+  left: 72px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  margin:60px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.youTubeIcon{
+  height:90px;
+  width:90px;
+  color:red;
+}
+.youTubeVideoDesc{
+  display:flex;
+  flex-direction: column;
+}
+.buyerAndsupplier{
+  display:flex;
+  width:400px;
+  justify-content: space-between;
+
+}
+.buyerContainer{
+  width: 202px;
+  height: 47px;
+  top: 147px;
+  left: 777px;
+  gap: 0px;
+  border-radius: 1px 0px 0px 0px;
+  opacity: 0px;
+  color: #EB7150;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.buyer{
+    text-decoration: underline;
+  text-decoration-color: #EB7150;
+}
+
+.supplierContainer{
+  color:#FFFFFF;
+}
+.supplierContainer:hover{
+  color:#EB7150;
+  text-decoration: underline;
+  text-decoration-color: #EB7150;
+}
+.BuyerDescription{
+  
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 18.75px;
+  font-weight: 500;
+  line-height: 39px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+
+}
+.checkMark{
+  height:20px;
+  width:20px;
+  color:green;
+  margin-right:10px;
+}
+.buyerPointDetails{
+  display:flex;
+  align-items:center;
+}
+
+@media only screen and (max-width: 768px) {
+ .youTubeContainer{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin:10px;
+  margin-top:0px;
+  width: 630px;
+  height: 900px;
+  top: 1113px;
+  left: 98px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  background: #072F57;
+  
+
+}
+.youtubeAnimatedImage{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://res.cloudinary.com/dbvonytlq/image/upload/v1733149729/i8tgRHXx4oQ-SD_1_new_u8bcps.png");
+  background-size: cover;
+  width: 600px;
+  height: 400px;
+  top: 137px;
+  left: 72px;
+  gap: 0px;
+  border-radius: 5px;
+  opacity: 0px;
+  margin:20px;
+  
+}
+.youTubeIcon{
+  height:90px;
+  width:90px;
+  color:red;
+}
+.youTubeVideoDesc{
+  display:flex;
+  flex-direction: column;
+}
+.buyerAndsupplier{
+  display:flex;
+  width:400px;
+  justify-content: space-between;
+
+}
+.buyerContainer{
+  width: 202px;
+  height: 47px;
+  top: 147px;
+  left: 777px;
+  gap: 0px;
+  border-radius: 1px 0px 0px 0px;
+  opacity: 0px;
+  color: #EB7150;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.buyer{
+    text-decoration: underline;
+  text-decoration-color: #EB7150;
+}
+
+.supplierContainer{
+  color:#FFFFFF;
+}
+.supplierContainer:hover{
+  color:#EB7150;
+  text-decoration: underline;
+  text-decoration-color: #EB7150;
+}
+.BuyerDescription{
+  
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 18.75px;
+  font-weight: 500;
+  line-height: 39px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+
+}
+.checkMark{
+  height:20px;
+  width:20px;
+  color:green;
+  margin-right:10px;
+}
+.buyerPointDetails{
+  display:flex;
+  align-items:center;
+}
+}

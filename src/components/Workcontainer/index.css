@@ -1,0 +1,221 @@
+.WorksContainer{
+  width: 1512px;
+  height: 809px;
+  top: 2257px;
+  gap: 0px;
+  opacity: 0px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  margin:50px;
+}
+.worksHeading{
+  width: 287px;
+  height: 48px;
+  top: -50px;
+  left: 456px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 37.34px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color:#222222;
+}
+.worksParagraph{
+  width: 839px;
+  height: 52px;
+  top: 89px;
+  left: 336px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 17.16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color:#000000;
+}
+.worksListContainer{
+  display:flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  height: 508px;
+  top: 214px;
+  left: 156px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.addPersonContainer{
+  width: 200px;
+  height: 200px;
+  top: 214px;
+  left: 156px;
+  padding: 44px 97px 44px 97px;
+  gap: 0px;
+  opacity: 0px;
+  background-color:#E8FBFF;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.addPersonImage{
+  width: 74.35px;
+  height: 74.35px;
+  top: 44px;
+  left: 163px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.BuyerPostContainer{
+  width: 200px;
+  height: 200px;
+  top: 214px;
+  left: 156px;
+  padding: 44px 97px 44px 97px;
+  gap: 0px;
+  opacity: 0px;
+  background-color:#ffffff;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.workListHeading{
+  width: 306px;
+  height: 53px;
+  top: 157px;
+  left: 47px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color:#000000;
+}
+@media only screen and (max-width: 768px) {
+    .WorksContainer{
+  width: 600px;
+  height: 800px;
+  top: 2257px;
+  gap: 0px;
+  opacity: 0px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #ffffff;
+  margin:50px;
+}
+.worksHeading{
+  width: 287px;
+  height: 48px;
+  top: -50px;
+  left: 456px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 37.34px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color:#222222;
+}
+.worksParagraph{
+  width: 500x;
+  height: 52px;
+  top: 89px;
+  left: 336px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 17.16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color:#000000;
+}
+.worksListContainer{
+  display:flex;
+  flex-wrap: wrap;
+  width: 600px;
+  height: 700px;
+  top: 214px;
+  left: 156px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top:40px;
+
+}
+.addPersonContainer{
+  width: 100px;
+  height: 100px;
+  top: 214px;
+  left: 156px;
+  padding: 44px 97px 44px 97px;
+  gap: 0px;
+  opacity: 0px;
+  background-color:#E8FBFF;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.addPersonImage{
+  width: 50px;
+  height: 50px;
+  top: 44px;
+  left: 163px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.BuyerPostContainer{
+  width: 100px;
+  height: 100px;
+  top: 214px;
+  left: 156px;
+  padding: 44px 97px 44px 97px;
+  gap: 0px;
+  opacity: 0px;
+  background-color:#ffffff;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.workListHeading{
+  width: 306px;
+  height: 53px;
+  top: 157px;
+  left: 47px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color:#000000;
+}
+}
